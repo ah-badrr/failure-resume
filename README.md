@@ -1,2 +1,3 @@
-# failure-resume
-📉 The Failure Resume: Sebuah platform web anti-mainstream untuk mendokumentasikan kegagalan, penolakan kerja, dan proyek yang gagal. Dibangun dengan Vanilla JS tanpa database backend. Merayakan kerentanan sebagai kekuatan. 
+📉 The Failure Resume
+"Merayakan Kerentanan, Menghancurkan Imposter Syndrome"
+Built with Vanilla JSDatabase Local StorageOpen Source
